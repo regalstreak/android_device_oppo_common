@@ -16,7 +16,6 @@
 
 # Keyhandler
 PRODUCT_PACKAGES += \
-    ConfigPanel \
     com.cyanogenmod.keyhandler
 
 PRODUCT_SYSTEM_SERVER_JARS += com.cyanogenmod.keyhandler
